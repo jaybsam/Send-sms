@@ -1,1 +1,2 @@
-# Send-sms
+# nativescript-message
+NativeScript, Angular
